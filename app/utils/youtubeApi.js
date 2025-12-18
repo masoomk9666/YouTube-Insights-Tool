@@ -1,4 +1,6 @@
-const API_KEY = process.env.NEXT_PUBLIC_YOUTUBE_API_KEY;
+// const API_KEY = process.env.NEXT_PUBLIC_YOUTUBE_API_KEY;
+const API_KEY = "AIzaSyBHTA1mcPEuyiF0NCi4_GgbmktL2-68b_c";
+
 
 // RPM rates by country
 export const rpmRates = {
